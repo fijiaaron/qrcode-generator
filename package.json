@@ -1,0 +1,14 @@
+{
+  "name": "js_qrcode_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo tests"
+  },
+  "author": "Aaron Evans <aarone@one-shore.com>",
+  "license": "Unlicensed",
+  "devDependencies": {
+    "qrcode": "^1.5.0"
+  }
+}
